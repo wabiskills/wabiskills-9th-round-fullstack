@@ -51,10 +51,10 @@ Submit the following:
 - A README.md explaining your implementation.
 - Screenshots of your GET and POST request tests.
 
-## Important
+Important
 
 - Write your own code.
 - Do not copy another student's solution.
 - Be prepared to explain your implementation.
 
-**Submission deadline:** To be announced by the instructor.
+Submission deadline: with in a week or untill november 30 2026 
